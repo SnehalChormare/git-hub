@@ -1,2 +1,3 @@
 # git-hub
- This is demo file
+ This is demo file.
+ Auther - Snehal 
